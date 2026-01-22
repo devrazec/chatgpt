@@ -1,5 +1,4 @@
-# chatgpt
-Building a Project with ChatGPT
+# Building a Project with ChatGPT
 
 docker compose up
 
